@@ -10,6 +10,7 @@ export class HeaderComponent {
   constructor(private router: Router) {
 
   }
+
   navTo(url: any) {
     this.router.navigate([url]);
   }
