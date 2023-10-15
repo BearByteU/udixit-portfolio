@@ -1,0 +1,13 @@
+<section class="resume-section" id="projects">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Projects</h2>
+
+        <div class="d-flex flex-column flex-md-row justify-content-between mb-5" *ngFor="let project of projectsData">
+            <div class="flex-grow-1">
+                <h3 class="mb-0">{{ project.name }}</h3>
+                <div class="subheading mb-3">{{ project.company }}</div>
+                <p>{{ project.description }}</p>
+            </div>
+        </div>
+    </div>
+</section>
