@@ -15,7 +15,7 @@ export class ProjectsComponent {
     {
       name: 'CRS (Contract Report System):',
       company: 'Gunaatita Technology Pvt.Ltd.',
-      description: 'Description of Project 2',
+      description: 'Played a pivotal role in designing and developing the business logic for the generation of comprehensive reports based on contractual agreements related to carrier quota share and participation in risk. This involved a meticulous understanding of complex agreements and the creation of logical frameworks to extract valuable insights. Responsible for writing code using Web API to create a seamless interface for generating reports, ensuring user-friendly access to critical data',
     },
     {
       name: 'HRMS (Human Resource Management System): ',
