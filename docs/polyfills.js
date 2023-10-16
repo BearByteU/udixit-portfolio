@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! E:\My-Portfolio\portfolio\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! E:\Angular Port\Port\udixit-portfolio\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
